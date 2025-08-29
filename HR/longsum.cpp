@@ -23,6 +23,6 @@ int n;
     sum=sum+arr[i];
   }
 cout<<"\n"<<"The sum is: "<< sum << " ";
-delete arr;
+delete[] arr;
     return 0;
 }

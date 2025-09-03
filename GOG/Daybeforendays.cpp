@@ -9,7 +9,6 @@
 
 You have to return the index for the day which is n days before the given day d*/
 #include<iostream>
-#include<cmath>
 using namespace std;
 
 int daysbeforen(int d ,int n){

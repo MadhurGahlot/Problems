@@ -6,6 +6,7 @@ a=3;
 b=5;
 temp=a;
 a=b;
+b=temp;
 cout<<temp<<"\n";
 cout<<a;
 

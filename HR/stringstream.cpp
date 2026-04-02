@@ -1,6 +1,7 @@
-#include <bits/stdc++.h>
+#include<vector>
 #include<iostream>
 #include<string>
+#include<<sstream>
 using namespace std;
 
 vector<int> parseInts(string str) {
